@@ -10,3 +10,5 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `gmail` | `/Users/maisylloyd/maisys-hub/app/hub/gmail` | 2026-06-25 14:03 |
 | `github` | `/Users/maisylloyd/maisys-hub/app/api/github` | 2026-06-25 15:56 |
 | `[id]` | `/Users/maisylloyd/maisys-hub/app/hub/projects/[id]` | 2026-06-25 15:56 |
+| `spotify` | `/Users/maisylloyd/maisys-hub/app/api/spotify` | 2026-06-25 17:07 |
+| `stats` | `/Users/maisylloyd/maisys-hub/app/api/stats` | 2026-06-25 17:07 |
