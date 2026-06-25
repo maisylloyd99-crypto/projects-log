@@ -8,3 +8,5 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `connect` | `/Users/maisylloyd/maisys-hub/app/api/gmail/connect` | 2026-06-25 14:03 |
 | `callback` | `/Users/maisylloyd/maisys-hub/app/api/gmail/callback` | 2026-06-25 14:03 |
 | `gmail` | `/Users/maisylloyd/maisys-hub/app/hub/gmail` | 2026-06-25 14:03 |
+| `github` | `/Users/maisylloyd/maisys-hub/app/api/github` | 2026-06-25 15:56 |
+| `[id]` | `/Users/maisylloyd/maisys-hub/app/hub/projects/[id]` | 2026-06-25 15:56 |
