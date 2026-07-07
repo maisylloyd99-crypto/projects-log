@@ -15,3 +15,7 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `frames` | `/private/tmp/claude-501/-Users-maisylloyd/e30c7daa-f9a1-4f1b-8ffb-72a0dfe9a3a0/scratchpad/frames` | 2026-07-07 11:54 |
 | `susan-check` | `/private/tmp/claude-501/-Users-maisylloyd/9410027f-11b6-4610-a1f2-3e9af12e844d/scratchpad/susan-check` | 2026-07-07 12:08 |
 | `susan-the-coeliac` | `~/susan-the-coeliac` | 2026-07-07 12:08 |
+| `content` | `src/content` | 2026-07-07 12:12 |
+| `lib` | `src/lib` | 2026-07-07 12:12 |
+| `components` | `src/components` | 2026-07-07 12:12 |
+| `data` | `data` | 2026-07-07 12:12 |
