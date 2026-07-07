@@ -12,3 +12,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `[id]` | `/Users/maisylloyd/maisys-hub/app/hub/projects/[id]` | 2026-06-25 15:56 |
 | `spotify` | `/Users/maisylloyd/maisys-hub/app/api/spotify` | 2026-06-25 17:07 |
 | `stats` | `/Users/maisylloyd/maisys-hub/app/api/stats` | 2026-06-25 17:07 |
+| `frames` | `/private/tmp/claude-501/-Users-maisylloyd/e30c7daa-f9a1-4f1b-8ffb-72a0dfe9a3a0/scratchpad/frames` | 2026-07-07 11:54 |
