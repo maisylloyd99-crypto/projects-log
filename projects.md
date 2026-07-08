@@ -37,3 +37,16 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `fonts` | `~/susan-the-coeliac/social/carousels/common-celiac-myths/fonts` | 2026-07-08 09:51 |
 | `ls` | `ls` | 2026-07-08 09:51 |
 | `common-celiac-myths` | `~/susan-the-coeliac/social/carousels/common-celiac-myths` | 2026-07-08 09:51 |
+| `slides` | `~/susan-the-coeliac/social/carousels/cross-contamination-101/slides` | 2026-07-08 10:50 |
+| `cp` | `cp` | 2026-07-08 10:50 |
+| `export.mjs` | `~/.claude/skills/instagram-carousel/assets/export.mjs` | 2026-07-08 10:50 |
+| `export.mjs` | `~/susan-the-coeliac/social/carousels/cross-contamination-101/export.mjs` | 2026-07-08 10:50 |
+| `cp` | `cp` | 2026-07-08 10:50 |
+| `package.json` | `~/.claude/skills/instagram-carousel/assets/package.json` | 2026-07-08 10:50 |
+| `package.json` | `~/susan-the-coeliac/social/carousels/cross-contamination-101/package.json` | 2026-07-08 10:50 |
+| `echo` | `echo` | 2026-07-08 10:50 |
+| `node_modules` | `node_modules` | 2026-07-08 10:50 |
+| `>` | `>` | 2026-07-08 10:50 |
+| `.gitignore` | `~/susan-the-coeliac/social/carousels/cross-contamination-101/.gitignore` | 2026-07-08 10:50 |
+| `ls` | `ls` | 2026-07-08 10:50 |
+| `cross-contamination-101` | `~/susan-the-coeliac/social/carousels/cross-contamination-101` | 2026-07-08 10:50 |
