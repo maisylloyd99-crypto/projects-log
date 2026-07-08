@@ -32,3 +32,8 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `01.html` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test/slides/01.html` | 2026-07-08 09:43 |
 | `ls` | `ls` | 2026-07-08 09:43 |
 | `carousel-test` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/carousel-test` | 2026-07-08 09:43 |
+| `slides` | `~/susan-the-coeliac/social/carousels/common-celiac-myths/slides` | 2026-07-08 09:51 |
+| `mkdir` | `mkdir` | 2026-07-08 09:51 |
+| `fonts` | `~/susan-the-coeliac/social/carousels/common-celiac-myths/fonts` | 2026-07-08 09:51 |
+| `ls` | `ls` | 2026-07-08 09:51 |
+| `common-celiac-myths` | `~/susan-the-coeliac/social/carousels/common-celiac-myths` | 2026-07-08 09:51 |
