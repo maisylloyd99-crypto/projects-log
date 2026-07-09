@@ -67,3 +67,16 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `puppeteer` | `puppeteer` | 2026-07-08 11:29 |
 | `from` | `from` | 2026-07-08 11:29 |
 | `puppeteer` | `puppeteer` | 2026-07-08 11:29 |
+| `slides` | `~/susan-the-coeliac/social/carousels/questions-before-ordering/slides` | 2026-07-09 14:03 |
+| `cp` | `cp` | 2026-07-09 14:03 |
+| `export.mjs` | `~/.claude/skills/instagram-carousel/assets/export.mjs` | 2026-07-09 14:03 |
+| `export.mjs` | `~/susan-the-coeliac/social/carousels/questions-before-ordering/export.mjs` | 2026-07-09 14:03 |
+| `cp` | `cp` | 2026-07-09 14:03 |
+| `package.json` | `~/.claude/skills/instagram-carousel/assets/package.json` | 2026-07-09 14:03 |
+| `package.json` | `~/susan-the-coeliac/social/carousels/questions-before-ordering/package.json` | 2026-07-09 14:03 |
+| `echo` | `echo` | 2026-07-09 14:03 |
+| `node_modules` | `node_modules` | 2026-07-09 14:03 |
+| `>` | `>` | 2026-07-09 14:03 |
+| `.gitignore` | `~/susan-the-coeliac/social/carousels/questions-before-ordering/.gitignore` | 2026-07-09 14:03 |
+| `ls` | `ls` | 2026-07-09 14:03 |
+| `questions-before-ordering` | `~/susan-the-coeliac/social/carousels/questions-before-ordering` | 2026-07-09 14:03 |
