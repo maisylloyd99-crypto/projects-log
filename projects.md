@@ -80,3 +80,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `.gitignore` | `~/susan-the-coeliac/social/carousels/questions-before-ordering/.gitignore` | 2026-07-09 14:03 |
 | `ls` | `ls` | 2026-07-09 14:03 |
 | `questions-before-ordering` | `~/susan-the-coeliac/social/carousels/questions-before-ordering` | 2026-07-09 14:03 |
+| `checklist` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/checklist` | 2026-07-09 14:24 |
