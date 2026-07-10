@@ -82,3 +82,13 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `questions-before-ordering` | `~/susan-the-coeliac/social/carousels/questions-before-ordering` | 2026-07-09 14:03 |
 | `checklist` | `/private/tmp/claude-501/-Users-maisylloyd/ca269cdb-accc-420d-a1c5-223e5a346410/scratchpad/checklist` | 2026-07-09 14:24 |
 | `newsletter` | `~/susan-the-coeliac/src/app/api/newsletter` | 2026-07-10 10:40 |
+| `scratchpad` | `/private/tmp/claude-501/-Users-maisylloyd/2f572749-cd22-4110-b7ed-a7a461c973fb/scratchpad` | 2026-07-10 10:43 |
+| `cat` | `cat` | 2026-07-10 10:43 |
+| `>` | `>` | 2026-07-10 10:43 |
+| `test-newsletter.mjs` | `/private/tmp/claude-501/-Users-maisylloyd/2f572749-cd22-4110-b7ed-a7a461c973fb/scratchpad/test-newsletter.mjs` | 2026-07-10 10:43 |
+| `<<` | `<<` | 2026-07-10 10:43 |
+| `EOF` | `EOF` | 2026-07-10 10:43 |
+| `import` | `import` | 2026-07-10 10:43 |
+| `puppeteer` | `puppeteer` | 2026-07-10 10:43 |
+| `from` | `from` | 2026-07-10 10:43 |
+| `puppeteer` | `puppeteer` | 2026-07-10 10:43 |
