@@ -104,3 +104,15 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `puppeteer` | `puppeteer` | 2026-07-10 12:25 |
 | `from` | `from` | 2026-07-10 12:25 |
 | `puppeteer` | `puppeteer` | 2026-07-10 12:25 |
+| `inspo` | `/private/tmp/claude-501/-Users-maisylloyd/2f572749-cd22-4110-b7ed-a7a461c973fb/scratchpad/inspo` | 2026-07-10 13:03 |
+| `cd` | `cd` | 2026-07-10 13:03 |
+| `inspo` | `/private/tmp/claude-501/-Users-maisylloyd/2f572749-cd22-4110-b7ed-a7a461c973fb/scratchpad/inspo` | 2026-07-10 13:03 |
+| `cat` | `cat` | 2026-07-10 13:03 |
+| `>` | `>` | 2026-07-10 13:03 |
+| `shot.mjs` | `shot.mjs` | 2026-07-10 13:03 |
+| `<<` | `<<` | 2026-07-10 13:03 |
+| `EOF` | `EOF` | 2026-07-10 13:03 |
+| `import` | `import` | 2026-07-10 13:03 |
+| `puppeteer` | `puppeteer` | 2026-07-10 13:03 |
+| `from` | `from` | 2026-07-10 13:03 |
+| `puppeteer` | `puppeteer` | 2026-07-10 13:03 |
