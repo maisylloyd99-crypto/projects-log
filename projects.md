@@ -163,3 +163,12 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `capture.mjs` | `/Users/maisylloyd/susan-the-coeliac/social/reels/sneaky-spots/capture.mjs` | 2026-07-15 11:34 |
 | `echo` | `echo` | 2026-07-15 11:34 |
 | `done` | `done` | 2026-07-15 11:34 |
+| `slides` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/Reading Labels Scrapbook/slides` | 2026-07-15 11:54 |
+| `cp` | `cp` | 2026-07-15 11:54 |
+| `export.mjs` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/common-celiac-myths/export.mjs` | 2026-07-15 11:54 |
+| `export.mjs` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/Reading Labels Scrapbook/export.mjs` | 2026-07-15 11:54 |
+| `cp` | `cp` | 2026-07-15 11:54 |
+| `package.json` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/common-celiac-myths/package.json` | 2026-07-15 11:54 |
+| `package.json` | `/Users/maisylloyd/susan-the-coeliac/social/carousels/Reading Labels Scrapbook/package.json` | 2026-07-15 11:54 |
+| `echo` | `echo` | 2026-07-15 11:54 |
+| `done` | `done` | 2026-07-15 11:54 |
