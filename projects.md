@@ -200,3 +200,9 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `Wellbeing_Stress_Slides` | `~/Desktop/Wellbeing_Stress_Slides/` | 2026-07-18 11:12 |
 | `github` | `~/.claude/skills/github` | 2026-07-19 13:27 |
 | `assets` | `~/.claude/skills/claudesave/assets` | 2026-07-19 13:32 |
+| `repos` | `~/.claude/repos` | 2026-07-19 13:35 |
+| `if` | `if` | 2026-07-19 13:35 |
+| `[` | `[` | 2026-07-19 13:35 |
+| `!` | `!` | 2026-07-19 13:35 |
+| `.git` | `~/.claude/repos/tkinter/.git` | 2026-07-19 13:35 |
+| `]` | `]` | 2026-07-19 13:35 |
