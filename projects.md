@@ -215,3 +215,4 @@ Automatically tracked by Claude Code whenever a new project directory is created
 | `webhook` | `~/.claude/repos/claude-code/crm/app/api/whatsapp/webhook` | 2026-07-20 12:00 |
 | `send` | `~/.claude/repos/claude-code/crm/app/api/whatsapp/send` | 2026-07-20 12:00 |
 | `[id]` | `~/.claude/repos/claude-code/crm/app/api/whatsapp/conversations/[id]` | 2026-07-20 12:03 |
+| `[id]` | `~/.claude/repos/claude-code/crm/app/api/workflows/[id]` | 2026-07-20 12:28 |
